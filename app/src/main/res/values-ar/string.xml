@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">تطبيق باركي</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">مرحباً بعودتك!</string>
+    <string name="login_subtitle">أدخل بريدك الإلكتروني وكلمة المرور \nللاستمتاع بالتجربة</string>
+    <string name="enter_email">أدخل البريد الإلكتروني</string>
+    <string name="enter_password">أدخل كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="dont_have_account">لا تملك حساب؟</string>
+    <string name="sign_up">إنشاء حساب</string>
+
+    <!-- Language Selection -->
+    <string name="select_language">اختر اللغة</string>
+    <string name="language_english">English</string>
+    <string name="language_arabic">العربية</string>
+
+    <!-- Common Messages -->
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="error">خطأ</string>
+    <string name="success">نجح</string>
+    <string name="fill_all_fields">من فضلك املأ جميع الحقول</string>
+    <string name="login_successful">تم تسجيل الدخول بنجاح!</string>
+
+    <!-- Validation Messages -->
+    <string name="invalid_email">من فضلك أدخل بريد إلكتروني صحيح</string>
+    <string name="password_too_short">كلمة المرور يجب أن تكون على الأقل 6 أحرف</string>
+</resources>
