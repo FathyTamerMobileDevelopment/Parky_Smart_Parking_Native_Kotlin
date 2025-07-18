@@ -1,0 +1,33 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">Parky Application</string>
+    <string name="StartScreenTitle" translatable="false">Welcome to Parky</string>
+    <string name="StartScreenSubTitle" translatable="false">Find and book your parking easily</string>
+    <string name="StartScreenButton" translatable="false">Get Started</string>
+    <!-- Login Screen -->
+    <string name="login_title">Welcome Back!</string>
+    <string name="login_subtitle">Enter your email and password \nto enjoy the experience</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot your Password?</string>
+    <string name="log_in">Log in</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+
+    <!-- Language Selection -->
+    <string name="select_language">Select Language</string>
+    <string name="language_english">English</string>
+    <string name="language_arabic">العربية</string>
+
+    <!-- Common Messages -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="login_successful">Login successful!</string>
+
+    <!-- Validation Messages -->
+    <string name="invalid_email">Please enter a valid email</string>
+    <string name="password_too_short">Password must be at least 6 characters</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186675919",
+    "project_id": "parkysmartparkingapplication",
+    "storage_bucket": "parkysmartparkingapplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186675919:android:23d5f47f853186a2587dba",
+        "android_client_info": {
+          "package_name": "com.example.parkyapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgZpyxaRMyhtTK30rT07Y2t4qBsujcfQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
